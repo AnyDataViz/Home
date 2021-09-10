@@ -139,7 +139,7 @@ th {
 .row {
   /* width: 1040px; */
 }
-@media (max-width: 1028px) {
+@media (max-width: 720px) {
 
   .navbar-brand {
   font-size: 3.625rem;
