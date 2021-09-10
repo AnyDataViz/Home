@@ -258,7 +258,7 @@ padding: 0px;
     height: 180px;
   }
 .you-tube {
-  position: relative;
+  position: absolute;
   height: 230px;
   width: 250px;
 left: 10px;
