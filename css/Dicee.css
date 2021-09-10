@@ -63,7 +63,7 @@ margin-bottom: 10px;
 .download-button:hover {
   background-color: #ffff;
 }
-@media (max-width: 1028px) {
+@media (max-width: 720px) {
 
   h1 {
 text-align: center;
