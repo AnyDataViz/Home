@@ -143,7 +143,7 @@ th {
 .row {
   /* width: 1040px; */
 }
-@media (max-width: 800px) {
+@media (max-width: 1020px) {
 
   .navbar-brand {
   font-size: 3.625rem;
@@ -154,15 +154,15 @@ th {
 
   }
   .player {
-    width: 710px;
-    height: 440px;
+    width: 910px;
+    height: 640px;
     padding: 10px 10px 10px 10px;
 
   }
   .pricing-column {
     margin-left: 10px;
-    width: 720px;
-    height: 450px;
+    width: 920px;
+    height: 650px;
   }
   
 }
