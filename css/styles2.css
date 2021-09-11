@@ -76,9 +76,9 @@ a:hover {
   margin: auto;
 }
 .nav-link2 {
-  position: absolute;
-left: 560px;
-color: #EAF6F6;
+  position: relative;
+  left: 300px;
+  top: 30px;
 
 }
 .contact-message {
