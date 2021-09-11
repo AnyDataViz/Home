@@ -154,18 +154,18 @@ th {
 
   }
   .player {
-    width: 710px;
-    height: 440px;
+    width: 810px;
+    height: 540px;
     padding: 10px 10px 10px 10px;
 
   }
   .pricing-column {
     margin-left: 10px;
-    width: 720px;
-    height: 450px;
+    width: 820px;
+    height: 550px;
   }
   .row {
     height: 500px;
-    width: 800px;
+   
   }
 }
