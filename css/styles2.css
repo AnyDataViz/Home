@@ -154,7 +154,7 @@ margin-bottom: 30px;
 .mountain {
   width: 20%;
 }
-@media (max-width: 720px) {
+@media (max-width: 1020px) {
 
 .mountain {
   position: relative;
@@ -194,5 +194,9 @@ h2 {
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
-
+.nav-link2 {
+  position: relative;
+  left: 300px;
+  top: 30px;
+  }
 }
