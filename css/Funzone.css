@@ -174,7 +174,7 @@ th {
   }
   .scroll-container {
     width: 990px;
-    height: 1400px;
+    height: 1390px;
     overflow-y: scroll;
     scroll-behavior: smooth;
   }
